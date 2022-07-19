@@ -5,10 +5,10 @@ Settings for getting the best out of Plex.
 ![PlexGuide 3](https://user-images.githubusercontent.com/53855360/179834938-abb257a2-a6e8-4967-a0e3-574bc2d0d355.png)
 
 ### Amazon FireTV Devices
-- Settings > Video Quality
- - Adjust automatically: **Off**
- - Home streaming: **Maximum**
- - Remote streaming: **Maximum**
+Settings > Video Quality
+- Adjust automatically: **Off**
+- Home streaming: **Maximum**
+- Remote streaming: **Maximum**
 
 ### Android TV
 Settings > Video Quality
