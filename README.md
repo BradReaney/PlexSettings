@@ -12,75 +12,75 @@ Settings > Video Quality
 
 ### Android TV
 Settings > Video Quality
-Adjust automatically: **Off**
-Home streaming: **Maximum**
-Remote streaming: **Maximum**
+- Adjust automatically: **Off**
+- Home streaming: **Maximum**
+- Remote streaming: **Maximum**
 
 ### Apple TV
 Settings > Video Quality > Internet Streaming
-Auto Adjust Quality: **Off**
-Local Quality: **Maximum**
-Remote Quality: **Maximum**
+- Auto Adjust Quality: **Off**
+- Local Quality: **Maximum**
+- Remote Quality: **Maximum**
 
 ### Kodi
 Username > Settings > Video
-Local Quality: **Original**
-Remote Quality: **Original**
-Online Quality: **Original**
-Allow Direct Play: **Checked**
-Allow Direct Stream: **Checked**
-Allow HEVC (h265): **Checked**
+- Local Quality: **Original**
+- Remote Quality: **Original**
+- Online Quality: **Original**
+- Allow Direct Play: **Checked**
+- Allow Direct Stream: **Checked**
+- Allow HEVC (h265): **Checked**
 
 ### LG / WebOS
 Username > Settings > Video
-Local Quality: **Original**
-Remote Quality: **Original**
-Online Quality: **Original**
-Allow Direct Play: **Checked**
-Allow Direct Stream: **Checked**
+- Local Quality: **Original**
+- Remote Quality: **Original**
+- Online Quality: **Original**
+- Allow Direct Play: **Checked**
+- Allow Direct Stream: **Checked**
 
 ### Samsung
 Username > Settings > Video
-Adjust Automatically: **On**
-Home Streaming: **Maximum**
-Remote Streaming: **Maximum**
-Play Smaller Videos...: **On**
+- Adjust Automatically: **On**
+- Home Streaming: **Maximum**
+- Remote Streaming: **Maximum**
+- Play Smaller Videos...: **On**
 
 ### Plex Web Player
 Settings > Quality
-Video quality: **Maximum**
+- Video quality: **Maximum**
 
 ### Roku
 Settings > Video
-Local Quality: **Original**
-Remote Quality: **Original**
-Direct Play: **Auto**
-Allow Direct Stream: **Checked**
+- Local Quality: **Original**
+- Remote Quality: **Original**
+- Direct Play: **Auto**
+- Allow Direct Stream: **Checked**
 
 ### Plex Media Player
-Settings > Quality
-Video quality: **Maximum**
+S ettings > Quality
+- Video quality: **Maximum**
 
 ### Xbox
 Settings > Video
-Local Quality: **Original**
-Remote Quality: **Original**
-Online Quality: **Original**
-Allow Direct Play: **Checked**
-Allow Direct Stream: **Checked**
+- Local Quality: **Original**
+- Remote Quality: **Original**
+- Online Quality: **Original**
+- Allow Direct Play: **Checked**
+- Allow Direct Stream: **Checked**
 
 ### Apple Mobile App
 Menu > Settings > Quality
-Automatically Adjust Quality: **Enabled**
-Limit Cellular Data: **Disabled**
-Remote Streaming: **Show All > Maximum**
-Home Streaming: **Maximum**
+- Automatically Adjust Quality: **Enabled**
+- Limit Cellular Data: **Disabled**
+- Remote Streaming: **Show All > Maximum**
+- Home Streaming: **Maximum**
 
 ### Android Mobile App
 Menu > Settings > Quality
-Automatically Adjust Quality: **Enabled**
-Limit Cellular Data: **Disabled**
-Remote Streaming: 
+- Automatically Adjust Quality: **Enabled**
+- Limit Cellular Data: **Disabled**
+- Remote Streaming: 
     - Show All: **Maximum** 
     - Play smaller videos at original quality: **Enabled**
-Home Streaming > User recommended settings: **Enabled**
+- Home Streaming > User recommended settings: **Enabled**
